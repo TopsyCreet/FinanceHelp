@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-FinanceHelp-0.1";
 const contentToCache = [
-    "Build/f4.loader.js",
-    "Build/f4.framework.js",
-    "Build/f4.data",
-    "Build/f4.wasm",
+    "Build/Final.loader.js",
+    "Build/Final.framework.js",
+    "Build/Final.data",
+    "Build/Final.wasm",
     "TemplateData/style.css"
 
 ];
